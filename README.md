@@ -1,8 +1,6 @@
 # META-RAT
 This Tool is for get access to other systems
-
 And This is the options that ypu can do in taget system : 
-
 pwd : pwd 
 ---
 Upload file : upload_file + (with link)
