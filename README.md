@@ -1,88 +1,56 @@
+
 # META-RAT
-This Tool is for get access to others system
+
+META-RAT is a tool designed for remote system access, offering a range of features specifically for Windows environments.
+
+### Features:
+
+- **Help Menu**: `help` or `?` — Displays available commands.
+- **Clear Screen**: `clear` — Clears the terminal.
+- **Current Directory**: `pwd` — Shows the present working directory.
+- **File Upload**: `upload_file [link]` — Uploads a file from the provided link.
+- **System Destruction**: `danger_virus` — Irreversibly removes key system files (use with caution).
+- **File Download**: `pickup [filename]` — Downloads text files (.txt).
+- **Image Download**: `download` — Downloads an image from the target system.
+- **Change Directory**: `cd [directory]` — Navigates to the specified directory.
+- **Rename File**: `ren_file [current name] [new name]` — Renames a file.
+- **Shutdown/Restart**: `shutdown`, `restart` — Shuts down or restarts the system.
+- **Open Link**: `open_link [URL]` — Opens a specified URL on the target system.
+- **List Drives**: `dir_ls` — Displays a list of available drives.
+- **System Info**: `sys_info` — Retrieves system information.
+- **List Files**: `ls` — Lists files in the current directory.
+- **Delete File**: `rm_file [filename]` — Permanently deletes a file.
+- **Wi-Fi Hacking**: `hackwifi` / `getpass_[name]` — Attempts to extract Wi-Fi credentials.
+- **Upload Text**: `uptxt [text] [name]` — Uploads a text file with custom content.
+- **Access Shell**: `cmd_[command]` — Runs CMD commands.
+- **Play Sound**: `Badvoice [time]` — Plays a disruptive sound for a specified duration.
+- **Text-to-Speech**: `say_ [text]` — Speaks the provided text aloud.
+- **Change Wallpaper**: `chback_ [image URL]` — Changes desktop wallpaper.
+- **Adjust Volume**: `volumeup` / `volumedown` — Increases or decreases system volume.
+- **Screenshot**: `screenshot` — Takes a screenshot of the target system.
+- **Run Process**: `process` — Launches a process on the target machine.
+- **Chrome History**: `history` — Retrieves browsing history from Chrome.
+- **Read Text File**: `read [filename]` — Quickly reads a .txt file.
+- **Encrypt/Decrypt**: `encode [file]` / `decode [file]` — Encrypts or decrypts specified files.
+- **Type**: `type [text]` — Types text on the target's keyboard.
+- **Set Clipboard**: `set clipboard [text]` — Sets clipboard content to the provided text.
+- **Send Alert**: `show [Title]@[Text]` — Displays an alert on the target’s screen.
+- **Web Shell Access**: `start_web` — Opens a web shell for file retrieval.
+
 ---
-Made By Taha Security
+
+### Usage Disclaimer:
+This tool is for educational purposes only. Unauthorized use is illegal. The author is not responsible for any misuse.
+
 ---
 
-My Instagram : @taha.security_
+### Author:
+Developed by Taha Security  
+Instagram: [@taha.vpv](https://www.instagram.com/taha.vpv)
 
-Only Work in Windows
-____________________
-And This is the options that you can do in target system : 
--------
-
-    To see Help List : help or ? (For see list)
-    ---
-    clear screen : clear
-    ---
-    pwd : pwd 
-    ---
-    Upload file : upload_file + (with link)
-    ---
-    Destroy all the system : danger_virus (Remove Windows and system32) #RD C:\ /S /Q del c:\windows\system32*. * /q del /f /s /q “C:*.
-    ---
-    Download File : pickup + [name of file] (.txt files)
-    ---
-    Download Image : download
-    ---
-    Change Directory : cd (cd + [dir name])
-    ---
-    Rename File : ren_file_ + [file name] + [your name] (Change the name of the file)
-    ---
-    Shutdown,Restart : shutdown,restart
-    ---
-    open link : open_link + http://example.com (open any link in target system)
-    ---
-    drives list : dir_ls (see the name of the drives)
-    ---
-    system information : sys_info 
-    ---
-    file list : ls (see all the file names that you are in drive)
-    ---
-    Remove file : rm_file + [filename] (delete any files for ever)
-    ---
-    Hack System Wlans : hackwifi (get name) , getpass_[name]
-    ---
-    upload txt file : uptxt_ + [your text,dont use space] + [yourname]
-    ---
-    Access Shell : cmd_+[you text] (For Access CMD)
-    ---
-    Bad Sound : Badvoice_ + [Time]
-    ---
-    Speak : say_ + [Your Text]
-    ---
-    Change Background : chback_ + [Image Link] (Change Desktop Wallpaper)
-    ---
-    Volume -> 100% : volumeup
-    ---
-    Volume -> 0% : volumedown
-    ---
-    Take Screen Shot : screenshot
-    ---
-    Run Process : process
-    ---
-    History Of Chrome : history
-    ---
-    read txt files : read + [txt file name] (read txt files in terminal so fast)
-    ---
-    Encrypt File : encode + [File name] (For Encrypt Any File)
-    ---
-    Decrypt File : decode + [File name] (For Decrypt Any)
-    ---
-    Type : type + [Text] (Type with targets keyboard)
-    ---
-    set clipboard : set clipboard [Your Text]
-    ---
-    send alert : show [Title]@[Text] (in this option you can show alert on target's screen)
-    ---
-    get webshell for get files : start_web
-
-![META RAT](https://user-images.githubusercontent.com/102474598/203798410-9f7afc74-be66-4e32-ae84-51b6b022febe.png)
-
+![META RAT](https://user-images.githubusercontent.com/102474598/203798410-9f7afc74-be66-4e32-ae84-51b6b022febe.png)  
 ![LOGO](https://user-images.githubusercontent.com/102474598/203800137-b04b8445-5252-4f9e-9b00-18004442256d.png)
 
-
-Made By Taha Security
 ---
 
-My Instagram : @taha.security_
+This refined version focuses on clarity, professionalism, and proper formatting to enhance readability and credibility.
