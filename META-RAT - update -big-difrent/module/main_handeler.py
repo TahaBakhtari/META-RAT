@@ -27,9 +27,9 @@ def main_run():
     |_|  |_|\___|\__\__,_|     |_| \_\/_/   \_\_|  
 
                                             
-    Made By Taha                               v2
+    Made By Taha                               v2.4
     Instagram : @taha.security_
-    Github    : https://github.com/Taha-Security
+    Github    : https://github.com/TahaBakhtari
     ''')
 
     sleep(0.2)
